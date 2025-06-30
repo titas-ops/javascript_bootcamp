@@ -1,4 +1,4 @@
-# js-hindi-youtube
+# JS_BOOTCAMP
 A code repo for javascript learning
 
 ---
